@@ -2,10 +2,11 @@
 
 This repository contains implementations of different topic models and temporal processes:
 
-Topic models
+**Topic models**
 - **LDA**: Latent Dirichlet Allocation
 - **LNDA**: Latent Nested Dirichlet Allocation
-Temporal processes
+
+**Temporal processes**
 - **HP**: Hawkes Process
 - **STHP**: Structured Transformer Hawkes Process
 - **SKANTHP**: Structured KAN Transformer Hawkes Process
